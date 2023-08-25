@@ -1,0 +1,14 @@
+{
+    "teleport": {
+        "sounds": [
+            "suit/teleport"
+        ],
+        "category": "player"
+    },
+    "run_start": {
+        "sounds": [
+            "suit/run_start"
+        ],
+        "category": "player"
+    }
+}
