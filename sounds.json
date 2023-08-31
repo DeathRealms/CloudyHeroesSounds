@@ -10,5 +10,11 @@
             "suit/run_start"
         ],
         "category": "player"
+    },
+    "run_loop": {
+        "sounds": [
+            "suit/run_loop"
+        ],
+        "category": "player"
     }
 }
