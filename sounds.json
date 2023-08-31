@@ -16,5 +16,11 @@
             "suit/run_loop"
         ],
         "category": "player"
-    }
+    },
+    "run_stop": {
+        "sounds": [
+            "suit/run_stop"
+        ],
+        "category": "player"
+    },
 }
