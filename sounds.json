@@ -25,19 +25,19 @@
     },
     "blaster_charge": {
         "sounds": [
-            "sans/blaster_charge"
+            "suit/blaster_charge"
         ],
         "category": "player"
     },
     "blaster_fire": {
         "sounds": [
-            "sans/blaster_fire"
+            "suit/blaster_fire"
         ],
         "category": "player"
     },
     "sans_teleport": {
         "sounds": [
-            "sans/teleport"
+            "suit/sans_teleport"
         ],
         "category": "player"
     }
