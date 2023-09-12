@@ -22,5 +22,23 @@
             "suit/run_stop"
         ],
         "category": "player"
+    },
+    "blaster_charge": {
+        "sounds": [
+            "sans/blaster_charge"
+        ],
+        "category": "player"
+    },
+    "blaster_fire": {
+        "sounds": [
+            "sans/blaster_fire"
+        ],
+        "category": "player"
+    },
+    "sans_teleport": {
+        "sounds": [
+            "sans/teleport"
+        ],
+        "category": "player"
     }
 }
