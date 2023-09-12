@@ -1,7 +1,7 @@
 {
-    "teleport": {
+    "mxy_teleport": {
         "sounds": [
-            "suit/teleport"
+            "suit/mxy_teleport"
         ],
         "category": "player"
     },
