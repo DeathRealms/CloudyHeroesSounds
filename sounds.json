@@ -40,5 +40,11 @@
             "suit/sans_teleport"
         ],
         "category": "player"
+    },
+    "sleigh_bell": {
+        "sounds": [
+            "suit/sleigh_bell"
+        ],
+        "category": "player"
     }
 }
