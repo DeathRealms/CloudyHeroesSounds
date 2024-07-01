@@ -46,5 +46,29 @@
             "suit/sleigh_bell"
         ],
         "category": "player"
+    },
+    "firework_effect_1": {
+        "sounds": [
+            "suit/firework_effect_1"
+        ],
+        "category": "player"
+    },
+    "firework_effect_2": {
+        "sounds": [
+            "suit/firework_effect_2"
+        ],
+        "category": "player"
+    },
+    "firework_effect_3": {
+        "sounds": [
+            "suit/firework_effect_3"
+        ],
+        "category": "player"
+    },
+    "firework_effect_4": {
+        "sounds": [
+            "suit/firework_effect_4"
+        ],
+        "category": "player"
     }
 }
